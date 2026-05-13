@@ -38,7 +38,7 @@ An Android application built with **Kotlin** and **Jetpack Compose** that allows
 
 | Rotation Support | Web Search Results | Extra Collection View | Theme Support |
 | :---: | :---: | :---: | :---: |
-| <img src="./screenshots/rotate-screen.png" width="200" /> | <img src="./screenshots/WebSearch2.png" width="200" /> | <img src="./screenshots/Screenshot_20260513_175319.png" width="200" /> | <img src="./screenshots/home.png" width="200" /> |
+| <img src="./screenshots/rotate-screen.png" width="200" /> | <img src="./screenshots/WebSearch2.png" width="200" /> | <img src="./screenshots/saved-meals-collection.png" width="200" /> | <img src="./screenshots/home.png" width="200" /> |
 | **Landscape Mode** | **Results List** | **Local DB** | **Dark/Light Mode** |
 
 
